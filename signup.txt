@@ -1,0 +1,19 @@
+1. input 
+            email,name,pass,role
+
+2. Check if user already Exists
+
+3. HASHING THE PASSWORD- using bcrypt
+
+4. Create  a new user  -> DB Entry
+
+
+
+
+    abcdef_123
+
+    1->bcdefg_234
+    2->cdefgh_345
+    3->defghi_456
+    4->efghij_567
+    
