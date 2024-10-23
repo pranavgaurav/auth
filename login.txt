@@ -1,0 +1,6 @@
+LOGIN
+
+1.check that both email and pass is entered
+2.check if user exists or not
+3.check if password is correct or not
+4.Login+ COOKIE(JWT)

@@ -1,0 +1,5 @@
+3 Ways for Token
+
+    1. Req Body
+    2. Cookie     -> cookie-parser
+    3. Header Bearer Token
